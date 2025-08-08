@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=disb4lance&style=flat-square&color=blue" alt=""></p>
 
-### C# backend developer
+### C# Backend Developer
 
 ### 🛠 &nbsp;Languages and Tools :
 
